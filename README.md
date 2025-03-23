@@ -11,10 +11,10 @@
 **Alunos**: Thiago Wyse dos Santos e Thiago Moraes Ludvig
 
 ---
+
 Este projeto consiste na implementação de um sistema com base em um diagrama de classes simples, contendo as classes **Pessoa**, **Cargo** e **Funcionalidade**. O objetivo do projeto é demonstrar a construção de classes e seus relacionamentos, implementando atributos e métodos conforme o diagrama fornecido.
 
 ---
-
 ## **Tecnologias Utilizadas**
 
 - **Java**: Linguagem de programação utilizada para implementar o sistema.
