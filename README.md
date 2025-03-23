@@ -1,13 +1,12 @@
-```markdown
-# **Projeto de Implementação de Classes**
+## **Projeto de Implementação de Classes**
 
-**Universidade do Vale do Itajaí**  
-**Disciplina**: Programação Orientada a Objetos  
-**Professor**: Jhony Luiz de Almeida
+- **Universidade do Vale do Itajaí**  
+- **Disciplina**: Programação Orientada a Objetos  
+- **Professor**: Jhony Luiz de Almeida
 
 ### **Avaliação 01 – Modelagem UML e Implementação de Classes**
 
-**Alunos**: Thiago Wyse dos Santos e Thiago Moraes Ludvig
+- **Alunos**: Thiago Wyse dos Santos e Thiago Moraes Ludvig
 
 ---
 
