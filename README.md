@@ -1,6 +1,6 @@
 ---
 
-# **Projeto de Implementação de Classes**
+## **Projeto de Implementação de Classes**
 
 **Universidade do Vale do Itajaí**  
 **Disciplina**: Programação Orientada a Objetos  
@@ -11,7 +11,6 @@
 **Alunos**: Thiago Wyse dos Santos e Thiago Moraes Ludvig
 
 ---
-
 Este projeto consiste na implementação de um sistema com base em um diagrama de classes simples, contendo as classes **Pessoa**, **Cargo** e **Funcionalidade**. O objetivo do projeto é demonstrar a construção de classes e seus relacionamentos, implementando atributos e métodos conforme o diagrama fornecido.
 
 ---
