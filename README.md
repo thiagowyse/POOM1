@@ -73,8 +73,8 @@ O programa irá criar instâncias das classes **Pessoa**, **Cargo** e **Funciona
 
 Em caso de dúvidas ou sugestões, entre em contato com os alunos do projeto:
 
-- **Thiago Wyse dos Santos**: [thiago@example.com](mailto:thiago@example.com)
-- **Thiago Moraes Ludvig**: [thiago.moraes@example.com](mailto:thiago.moraes@example.com)
+- **Thiago Wyse dos Santos**: 
+- **Thiago Moraes Ludvig**: 
 
 ---
 
