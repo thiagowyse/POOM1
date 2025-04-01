@@ -10,7 +10,7 @@
 
 ---
 
-Este projeto consiste na implementação de um sistema com base em um diagrama de classes simples, contendo as classes **Pessoa**, **Cargo** e **Funcionalidade**. O objetivo do projeto é demonstrar a construção de classes e seus relacionamentos, implementando atributos e métodos conforme o diagrama fornecido.
+Este projeto consiste na implementação de um sistema com base em um diagrama de classes simples. O objetivo do projeto é demonstrar a construção de classes e seus relacionamentos, implementando atributos e métodos conforme o diagrama fornecido.
 
 ---
 
@@ -51,21 +51,6 @@ Este projeto consiste na implementação de um sistema com base em um diagrama d
    ```bash
    java Main
    ```
-
----
-
-### **Visualização**:
-
-O programa irá criar instâncias das classes **Pessoa**, **Cargo** e **Funcionalidade**, e exibir suas propriedades no console.
-
----
-
-## **Estrutura do Projeto**
-
-- **Main.java**: Arquivo principal que executa o sistema.
-- **Pessoa.java**: Classe que representa uma pessoa no sistema.
-- **Cargo.java**: Classe que representa o cargo de uma pessoa no sistema.
-- **Funcionalidade.java**: Classe que representa as funcionalidades atribuídas a uma pessoa no sistema.
 
 ---
 
