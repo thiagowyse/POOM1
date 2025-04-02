@@ -1,6 +1,22 @@
 public class Main {
     public static void main(String[] args) {
 
+        // Informações do hotel
+        Hotel hotel = new Hotel("Hotel Maravilha");
+
+        // Adicionando quartos ao hotel
+        Quarto quarto1 = new Quarto(102, 1);
+        Quarto quarto2 = new Quarto(102,  1);
+        hotel.adicionarQuarto(quarto1);
+        hotel.adicionarQuarto(quarto2);
+
+        // Exibindo informações do hotel
+        System.out.println("Nome do hotel: " + hotel.getNome());
+        System.out.println("Quartos disponíveis:");
+        for (Quarto quarto : hotel.getQuartos()) {
+            System.out.println(" - Quarto " + quarto.getNumero() +  "-Andar"+ quarto.getAndar());
+        }
+
         // Informacoes dos hospedes
         Hospede hospede1 = new Hospede("Thiago Wyse dos Santos", "Rua A, 123", "123456789");
         Hospede hospede2 = new Hospede("Thiago Moraes Ludvig", "Rua B, 456", "987654321");
